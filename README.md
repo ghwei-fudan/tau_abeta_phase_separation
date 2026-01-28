@@ -2,7 +2,7 @@ This repository contains the code used for the MD simulations in:
 
 #### Alzheimer’s Aβ Catalyzes Tau Phase Separation and Aggregation via Early Nanocluster Solubilization
 
-Xun Sun, Yiming Tang, Xue Wang, Guadalupe Pereira Curia, Rebecca Sternke-Hoffmann, Cecilia Mörman, Juan Atilio Gerez, Roland Riek, Guanghong Wei,*, Jinghui Luo,*
+Xun Sun, Yiming Tang, Xue Wang, Guadalupe Pereira Curia, Rebecca Sternke-Hoffmann, Cecilia Mörman, Juan Atilio Gerez, Roland Riek, Guanghong Wei, Jinghui Luo.
 
 #### File description:
 
